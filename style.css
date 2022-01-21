@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 600px;
+    height: 1000px;
+    margin: auto;
+}
+#cc{
+    width: 500px;
+    height: 300px;
+}
+.cc2{
+    width: 200px;
+    height: 300px;
+}
+.color{
+    color: red;
+}
